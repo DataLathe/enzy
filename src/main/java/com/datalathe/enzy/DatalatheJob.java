@@ -1,8 +1,8 @@
 package com.datalathe.enzy;
 
 import com.datalathe.client.DatalatheClient;
+import com.datalathe.client.command.impl.CreateChipCommand;
 import com.datalathe.client.command.impl.GenerateReportCommand;
-import com.datalathe.client.model.StageDataSourceRequest;
 import com.datalathe.Util;
 
 import org.apache.logging.log4j.Level;
@@ -34,8 +34,8 @@ public class DatalatheJob {
 
         logger.info("Staging data");
 
-        List<StageDataSourceRequest> stageDataRequests = getStageDataRequests();
-        List<String> chipIds = client.stageData(stageDataRequests);
+        List<CreateChipCommand.Request.Source> createChipRequests = getCreateChipRequests();
+        List<String> chipIds = client.createChips(createChipRequests);
 
         logger.info("Staged data");
 
@@ -51,29 +51,29 @@ public class DatalatheJob {
         logger.info("Executing queries");
 
         // Execute queries and print results
-        Map<Integer, GenerateReportCommand.Response.Result> results = client.query(chipIds, analysisQueries);
+        Map<Integer, GenerateReportCommand.Response.Result> results = client.generateReport(chipIds, analysisQueries);
 
         logger.info("Printing results");
         Util.printReportResults(results);
     }
 
-    private static List<StageDataSourceRequest> getStageDataRequests() {
+    private static List<CreateChipCommand.Request.Source> getCreateChipRequests() {
         return Arrays.asList(
-                new StageDataSourceRequest("local", "object028",
+                new CreateChipCommand.Request.Source("local", "object028",
                         "SELECT * FROM object028 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_date000",
+                new CreateChipCommand.Request.Source("local", "object028_date000",
                         "SELECT * FROM object028_date000 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text009",
+                new CreateChipCommand.Request.Source("local", "object028_text009",
                         "SELECT * FROM object028_text009 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text010",
+                new CreateChipCommand.Request.Source("local", "object028_text010",
                         "SELECT * FROM object028_text010 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text011",
+                new CreateChipCommand.Request.Source("local", "object028_text011",
                         "SELECT * FROM object028_text011 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text013",
+                new CreateChipCommand.Request.Source("local", "object028_text013",
                         "SELECT * FROM object028_text013 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text014",
+                new CreateChipCommand.Request.Source("local", "object028_text014",
                         "SELECT * FROM object028_text014 where companyid = 172"),
-                new StageDataSourceRequest("local", "object028_text015",
+                new CreateChipCommand.Request.Source("local", "object028_text015",
                         "SELECT * FROM object028_text015 where companyid = 172"));
     }
 
