@@ -3,6 +3,7 @@ package com.datalathe.enzy;
 import com.datalathe.client.DatalatheClient;
 import com.datalathe.client.command.impl.GenerateReportCommand;
 import com.datalathe.client.model.StageDataSourceRequest;
+import com.datalathe.Util;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
@@ -10,8 +11,6 @@ import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.config.Configurator;
 
 import java.io.IOException;
-import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.util.Arrays;
 import java.util.List;
@@ -55,44 +54,7 @@ public class DatalatheJob {
         Map<Integer, GenerateReportCommand.Response.Result> results = client.query(chipIds, analysisQueries);
 
         logger.info("Printing results");
-        printResults(results);
-    }
-
-    private static void printResults(Map<Integer, GenerateReportCommand.Response.Result> results) throws SQLException {
-        for (GenerateReportCommand.Response.Result result : results.values()) {
-            logger.info("Query {} results:", result.getIdx());
-            if (result.getError() != null) {
-                logger.info("Error: {}", result.getError());
-                continue;
-            }
-            ResultSet rs = result.getResultSet();
-            ResultSetMetaData metaData = rs.getMetaData();
-            int columnCount = metaData.getColumnCount();
-
-            // Print column headers
-            StringBuilder header = new StringBuilder();
-            for (int i = 1; i <= columnCount; i++) {
-                if (i > 1) {
-                    header.append(" | ");
-                }
-                header.append(metaData.getColumnName(i));
-            }
-            logger.info(header.toString());
-
-            // Print data rows
-            while (rs.next()) {
-                StringBuilder row = new StringBuilder();
-                for (int i = 1; i <= columnCount; i++) {
-                    if (i > 1) {
-                        row.append(" | ");
-                    }
-                    String value = rs.getString(i);
-                    row.append(value != null ? value : "NULL");
-                }
-                logger.info(row.toString());
-            }
-            logger.info("");
-        }
+        Util.printReportResults(results);
     }
 
     private static List<StageDataSourceRequest> getStageDataRequests() {
