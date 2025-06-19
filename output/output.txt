@@ -1,0 +1,361 @@
+16:17:02.392 [main] INFO  com.datalathe.enzy.DatalatheJob - Log level set to: INFO
+16:17:02.513 [main] INFO  com.datalathe.enzy.DatalatheJob - Staging data
+16:17:06.810 [main] INFO  com.datalathe.enzy.DatalatheJob - Staged data
+16:17:06.810 [main] INFO  com.datalathe.enzy.DatalatheJob - Executing queries
+16:17:07.040 [main] INFO  com.datalathe.enzy.DatalatheJob - Printing results
+16:17:07.040 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 0 results:
+16:17:07.041 [main] INFO  com.datalathe.enzy.DatalatheJob - id | companyId
+16:17:07.041 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00001 | 172
+16:17:07.041 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00002 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00003 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00004 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00005 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00006 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00007 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00008 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00009 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00010 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00011 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00012 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00013 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00014 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00015 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00016 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00017 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00018 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00019 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00020 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00021 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00022 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00023 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00024 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00025 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00026 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00027 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00028 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00029 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00030 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00031 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00032 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00033 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00034 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00035 | 172
+16:17:07.042 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00036 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00037 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00038 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00039 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00040 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00041 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00042 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00043 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00044 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00045 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00046 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00047 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00048 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00049 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00050 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00051 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00052 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00053 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00054 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00055 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00056 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00057 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00058 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00059 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00060 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00061 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00062 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00063 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00064 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00065 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00066 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00067 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00068 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00069 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00070 | 172
+16:17:07.043 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00071 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00072 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00073 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00074 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00075 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00076 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00077 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00078 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00079 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00080 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00081 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00082 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00083 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00084 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00085 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00086 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00087 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00088 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00089 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00090 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00091 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00092 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00093 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00094 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00095 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00096 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00097 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00098 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00099 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00100 | 172
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - 
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 1 results:
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - count_star()
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - 100
+16:17:07.044 [main] INFO  com.datalathe.enzy.DatalatheJob - 
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 2 results:
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - count_star()
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - 80
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - 
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 3 results:
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - count_star()
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - 100
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - 
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 4 results:
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - Error: Failed to execute query: Catalog Error: Table with name failed_query does not exist!
+Did you mean "sqlite_master"?
+
+LINE 1: with records as (select blah from failed_query) select * from records
+                                          ^ : with records as (select blah from failed_query) select * from records
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - Query 5 results:
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - concat(object028.id, '-', object028_text009."value", '-closer') | value
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00001-Name-h6yjJ-closer | Name-h6yjJ
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00012-Name-dfp8j-closer | Name-dfp8j
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00016-Name-SSBfh-closer | Name-SSBfh
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00021-Name-WYSkN-closer | Name-WYSkN
+16:17:07.045 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00024-Name-FoNFN-closer | Name-FoNFN
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00026-Name-lwrrK-closer | Name-lwrrK
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00031--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00036-Name-N4QRB-closer | Name-N4QRB
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00061--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00063-Name-QVVFq-closer | Name-QVVFq
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00067-Name-CoUc5-closer | Name-CoUc5
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00070--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00073--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00076-Name-5H455-closer | Name-5H455
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00078-Name-kjpWl-closer | Name-kjpWl
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00082-Name-KqKi7-closer | Name-KqKi7
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00089-Name-q2OLd-closer | Name-q2OLd
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00055-Name-ResqA-closer | Name-ResqA
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00010-Email-9hP8Z@example.com-closer | Email-9hP8Z@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00013-Email-HCMWa@example.com-closer | Email-HCMWa@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00017-Email-X18pv@example.com-closer | Email-X18pv@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00019-Email-38nkk@example.com-closer | Email-38nkk@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00044-Email-ghrdz@example.com-closer | Email-ghrdz@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00052-Email-LgRm2@example.com-closer | Email-LgRm2@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00080-Email-aGONq@example.com-closer | Email-aGONq@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00002-Email-3nzB6@example.com-closer | Email-3nzB6@example.com
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00045--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00001--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00006--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00086--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00008-Phone-952828979-closer | Phone-952828979
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00009-Phone-839029983-closer | Phone-839029983
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00035-Phone-974183366-closer | Phone-974183366
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00067-Phone-912890484-closer | Phone-912890484
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00075-Phone-49162988-closer | Phone-49162988
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00097-Phone-173876948-closer | Phone-173876948
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00100-Phone-477834594-closer | Phone-477834594
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00005-Phone-621901875-closer | Phone-621901875
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00090-Phone-73392455-closer | Phone-73392455
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00040--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00061--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00014--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00021--closer | 
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00019-Name-BcZcR-closer | Name-BcZcR
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00039-Name-eDiq7-closer | Name-eDiq7
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00045-Name-JOHUg-closer | Name-JOHUg
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00046-Name-cxVQh-closer | Name-cxVQh
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00013-Name-Ixobz-closer | Name-Ixobz
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00059-Name-yRszi-closer | Name-yRszi
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00022-Name-UIEZQ-closer | Name-UIEZQ
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00060-Name-VJHaz-closer | Name-VJHaz
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00025-Name-ldUIJ-closer | Name-ldUIJ
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00065-Name-tEFcS-closer | Name-tEFcS
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00091-Name-9Kaqq-closer | Name-9Kaqq
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00004-Name-rhTss-closer | Name-rhTss
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00027-Name-PfB8H-closer | Name-PfB8H
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00096-Name-qRULV-closer | Name-qRULV
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00098-Name-1oMyi-closer | Name-1oMyi
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00006-Name-HIh8D-closer | Name-HIh8D
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00064-Name-ec9Zk-closer | Name-ec9Zk
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00088-Name-tppIb-closer | Name-tppIb
+16:17:07.046 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00094-Name-oR0f6-closer | Name-oR0f6
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00090-Name-hq79f-closer | Name-hq79f
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00032-Name-QSHGb-closer | Name-QSHGb
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00075-Name-Xp2NG-closer | Name-Xp2NG
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00095-Name-rj5i5-closer | Name-rj5i5
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00100-Name-ElDVy-closer | Name-ElDVy
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00011-Name-RGCTu-closer | Name-RGCTu
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00033-Name-E5mkq-closer | Name-E5mkq
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00074-Name-2nADi-closer | Name-2nADi
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00092-Name-7k9ya-closer | Name-7k9ya
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00003-Name-McwPr-closer | Name-McwPr
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00005-Name-gRm2X-closer | Name-gRm2X
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00050-Name-c4ztv-closer | Name-c4ztv
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00062-Name-4nt7Y-closer | Name-4nt7Y
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00015-Name-Tz3oC-closer | Name-Tz3oC
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00028-Name-hvx2n-closer | Name-hvx2n
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00054-Name-phXO3-closer | Name-phXO3
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00017-Name-uMgO7-closer | Name-uMgO7
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00068-Name-eL1CT-closer | Name-eL1CT
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00084-Name-W2gZ2-closer | Name-W2gZ2
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00086-Name-3zwK0-closer | Name-3zwK0
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00052-Name-mE11R-closer | Name-mE11R
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00069-Name-mkqYr-closer | Name-mkqYr
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00047-Name-vjQ80-closer | Name-vjQ80
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00029-Name-ZPYe3-closer | Name-ZPYe3
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00026-Email-Dq5Xm@example.com-setter | Email-Dq5Xm@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00039-Email-EVyPl@example.com-setter | Email-EVyPl@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00046-Email-Xfedg@example.com-setter | Email-Xfedg@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00018-Email-95NBs@example.com-setter | Email-95NBs@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00061-Email-RFDYP@example.com-setter | Email-RFDYP@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00043-Email-wberm@example.com-setter | Email-wberm@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00063-Email-oeN75@example.com-setter | Email-oeN75@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00066-Email-lSemU@example.com-setter | Email-lSemU@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00089-Email-885U4@example.com-setter | Email-885U4@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00009-Email-pYsdv@example.com-setter | Email-pYsdv@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00048-Email-Bp7ak@example.com-setter | Email-Bp7ak@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00082-Email-jzN4Q@example.com-setter | Email-jzN4Q@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00091-Email-9tJ41@example.com-setter | Email-9tJ41@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00027-Email-H0Kxi@example.com-setter | Email-H0Kxi@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00096-Email-ByOdt@example.com-setter | Email-ByOdt@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00098-Email-MPAjF@example.com-setter | Email-MPAjF@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00012-Email-OpsRN@example.com-setter | Email-OpsRN@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00038-Email-dCisf@example.com-setter | Email-dCisf@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00051-Email-U7I42@example.com-setter | Email-U7I42@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00088-Email-B5qJe@example.com-setter | Email-B5qJe@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00094-Email-tFLGX@example.com-setter | Email-tFLGX@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00090-Email-chC5q@example.com-setter | Email-chC5q@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00032-Email-nIh4m@example.com-setter | Email-nIh4m@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00037-Email-XvvPu@example.com-setter | Email-XvvPu@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00075-Email-Cq4Wk@example.com-setter | Email-Cq4Wk@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00076-Email-f4oCN@example.com-setter | Email-f4oCN@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00095-Email-Rn9uO@example.com-setter | Email-Rn9uO@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00100-Email-WHubk@example.com-setter | Email-WHubk@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00007-Email-l2ZFd@example.com-setter | Email-l2ZFd@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00033-Email-RVRob@example.com-setter | Email-RVRob@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00074-Email-775U9@example.com-setter | Email-775U9@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00092-Email-wchFh@example.com-setter | Email-wchFh@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00003-Email-nZE7v@example.com-setter | Email-nZE7v@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00081-Email-hEg9Q@example.com-setter | Email-hEg9Q@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00085-Email-2h9J2@example.com-setter | Email-2h9J2@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00050-Email-lwsv1@example.com-setter | Email-lwsv1@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00055-Email-6eHEZ@example.com-setter | Email-6eHEZ@example.com
+16:17:07.047 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00093-Email-ivxZc@example.com-setter | Email-ivxZc@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00015-Email-4QPvP@example.com-setter | Email-4QPvP@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00054-Email-VElCS@example.com-setter | Email-VElCS@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00070-Email-6cuGP@example.com-setter | Email-6cuGP@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00016-Email-J52PP@example.com-setter | Email-J52PP@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00021-Email-IMCB0@example.com-setter | Email-IMCB0@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00035-Email-S2mzC@example.com-setter | Email-S2mzC@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00073-Email-K4XoX@example.com-setter | Email-K4XoX@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00058-Email-bIUc9@example.com-setter | Email-bIUc9@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00084-Email-c6KgU@example.com-setter | Email-c6KgU@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00068-Email-oBHwk@example.com-setter | Email-oBHwk@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00030-Email-vvSGD@example.com-setter | Email-vvSGD@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00047-Email-uPvUS@example.com-setter | Email-uPvUS@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00020-Email-l6iZW@example.com-setter | Email-l6iZW@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00034-Email-b0lzE@example.com-setter | Email-b0lzE@example.com
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00080-Phone-273468112-setter | Phone-273468112
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00018-Phone-235509616-setter | Phone-235509616
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00022-Phone-587892093-setter | Phone-587892093
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00048-Phone-966533999-setter | Phone-966533999
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00065-Phone-598518773-setter | Phone-598518773
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00091-Phone-406353677-setter | Phone-406353677
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00004-Phone-753028762-setter | Phone-753028762
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00027-Phone-249822020-setter | Phone-249822020
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00087-Phone-198931262-setter | Phone-198931262
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00096-Phone-127786221-setter | Phone-127786221
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00098-Phone-153586314-setter | Phone-153586314
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00012-Phone-396299441-setter | Phone-396299441
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00051-Phone-659134115-setter | Phone-659134115
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00094-Phone-699717228-setter | Phone-699717228
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00076-Phone-268894253-setter | Phone-268894253
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00095-Phone-917117947-setter | Phone-917117947
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00002-Phone-435185141-setter | Phone-435185141
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00007-Phone-251635655-setter | Phone-251635655
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00011-Phone-404804290-setter | Phone-404804290
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00033-Phone-624210670-setter | Phone-624210670
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00074-Phone-296133645-setter | Phone-296133645
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00092-Phone-60188041-setter | Phone-60188041
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00085-Phone-816790598-setter | Phone-816790598
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00062-Phone-671346381-setter | Phone-671346381
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00055-Phone-346700108-setter | Phone-346700108
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00041-Phone-767793169-setter | Phone-767793169
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00093-Phone-486389964-setter | Phone-486389964
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00010-Phone-366109150-setter | Phone-366109150
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00015-Phone-275875314-setter | Phone-275875314
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00054-Phone-809594197-setter | Phone-809594197
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00028-Phone-342790168-setter | Phone-342790168
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00017-Phone-463140272-setter | Phone-463140272
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00058-Phone-488758938-setter | Phone-488758938
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00083-Phone-24200641-setter | Phone-24200641
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00030-Phone-347284994-setter | Phone-347284994
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00069-Phone-407993258-setter | Phone-407993258
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00020-Phone-724333126-setter | Phone-724333126
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00047-Phone-924549424-setter | Phone-924549424
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00034-Phone-820635743-setter | Phone-820635743
+16:17:07.048 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00036-Phone-123762552-setter | Phone-123762552
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00057-Phone-500139861-setter | Phone-500139861
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00007-Name-VGs5S-setter | Name-VGs5S
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00010-Name-3yqlh-setter | Name-3yqlh
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00030-Name-0taiO-setter | Name-0taiO
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00034-Name-lHklB-setter | Name-lHklB
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00035-Name-983G5-setter | Name-983G5
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00037-Name-rdyY4-setter | Name-rdyY4
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00038-Name-ZWzSw-setter | Name-ZWzSw
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00043-Name-n8lcP-setter | Name-n8lcP
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00044-Name-369l5-setter | Name-369l5
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00048-Name-WjAO8-setter | Name-WjAO8
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00051-Name-17lf3-setter | Name-17lf3
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00056-Name-x2rU4-setter | Name-x2rU4
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00058-Name-cK0BQ-setter | Name-cK0BQ
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00066-Name-gkGha-setter | Name-gkGha
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00079-Name-oFYGo-setter | Name-oFYGo
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00080-Name-rKgXN-setter | Name-rKgXN
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00081--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00083-Name-W6v6M-setter | Name-W6v6M
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00087-Name-RlXD8-setter | Name-RlXD8
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00097-Name-5EQ6N-setter | Name-5EQ6N
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00099-Name-4lksa-setter | Name-4lksa
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00002-Name-lXC4j-setter | Name-lXC4j
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00020-Name-X27mi-setter | Name-X27mi
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00057-Name-SSCiu-setter | Name-SSCiu
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00011-Email-QSHIi@example.com-setter | Email-QSHIi@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00025-Email-DioVi@example.com-setter | Email-DioVi@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00029-Email-m354V@example.com-setter | Email-m354V@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00036-Email-7KeJO@example.com-setter | Email-7KeJO@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00056-Email-TTChp@example.com-setter | Email-TTChp@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00060-Email-xy0aH@example.com-setter | Email-xy0aH@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00067-Email-UiyM2@example.com-setter | Email-UiyM2@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00097-Email-ca3DS@example.com-setter | Email-ca3DS@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00099-Email-2h7Ar@example.com-setter | Email-2h7Ar@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00005-Email-OIXww@example.com-setter | Email-OIXww@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00028-Email-oMw91@example.com-setter | Email-oMw91@example.com
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00042--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00064--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00071--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00024--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00041--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00031--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00057--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00025-Phone-826932078-setter | Phone-826932078
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00037-Phone-583838479-setter | Phone-583838479
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00049-Phone-43201457-setter | Phone-43201457
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00066-Phone-542082061-setter | Phone-542082061
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00070--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00073-Phone-64152949-setter | Phone-64152949
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00082-Phone-881297314-setter | Phone-881297314
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00084-Phone-528136636-setter | Phone-528136636
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00003-Phone-298404987-setter | Phone-298404987
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00068--setter | 
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - obj00086-Phone-765791914-setter | Phone-765791914
+16:17:07.049 [main] INFO  com.datalathe.enzy.DatalatheJob - 
